@@ -1,0 +1,32 @@
+header {background:#009999; ;color:white;font-family:SOFIA;text-align:center;}
+
+
+.nav {background:#a6a6a6;}
+
+.nav{
+    display:block ;
+    padding: 10px 10px;
+    text-align: center;
+}
+
+
+#heading{
+  text-align:left;
+  font-family:Sofia;
+  font-size:55px;
+  color:silver grey;
+}
+
+#para{
+  font-size:28px;
+  font-family:Sofia;
+}
+
+.jumbotron{
+  font-family:Sofia;
+}
+#j2{
+  color:black;
+}
+
+
